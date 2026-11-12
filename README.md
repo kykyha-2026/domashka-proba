@@ -23,6 +23,7 @@ def hello():
     print("Hello, GitHub!")
 
 hello()
-![дайвер](https://yandex.ru/images/search?img_url=https%3A%2F%2Fforex-images.mt5.com%2Fhumor%2Feba0ed525286dd326042ee1d5a5f26e4.jpg&lr=54&pos=2&rpt=simage&search_client=unknown&source=serp&text=карикатура%20дайвера%20картинка)
+#Моя картинка
+![дайвер](https://i.pinimg.com/originals/38/98/b5/3898b5ba3857fa0857312c25dcb1b825.png?nii=t)
 
 
