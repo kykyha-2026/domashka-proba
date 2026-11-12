@@ -19,11 +19,19 @@
 ## Пример блока кода
 
 ```python
+
+def hello():
+    print("Hello, GitHub!")
+## Moя картинка
+
+![Дайвер](https://i.pinimg.com/originals/38/98/b5/3898b5ba3857fa0857312c25dcb1b825.png?nii=t)
+    print("Hello, GitHub!")
+
+```python
 def hello():
     print("Hello, GitHub!")
 
 hello()
-#Моя картинка
-![дайвер](https://i.pinimg.com/originals/38/98/b5/3898b5ba3857fa0857312c25dcb1b825.png?nii=t)
 
+```
 
